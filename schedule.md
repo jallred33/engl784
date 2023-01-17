@@ -109,6 +109,6 @@ optional:
 ## 5/16 GDM 3   
 * “Delta Autumn,” “Go Down, Moses”    
 
-See syllabus for books on order, assignment structure, grading, policies, etc.                                                                                                                                                
+See [syllabus](https://engl784spr23.commons.gc.cuny.edu/syllabus/) for books on order, assignment structure, grading, policies, etc.                                                                                                                                                
 
 
