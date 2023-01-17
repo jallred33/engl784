@@ -4,13 +4,14 @@ Instructor: Jeff Allred
 Class Meetings:Tu 5:30-7:30
 
 Office Hours: Tu/Fri 2:30-3:30 and by appointment in HW 1205. 
+
 Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
-Course Blog: https://faulknerhunter.commons.gc.cuny.edu
+Course Blog: [https://engl784spr23.commons.gc.cuny.edu/](https://engl784spr23.commons.gc.cuny.edu/)
 
 Yoknapedia: http://jallred.net/wordpress/yoknapedia/
 
-Course Code:
+Course Code: 40239
 
 ## **Learning Outcomes**
 
