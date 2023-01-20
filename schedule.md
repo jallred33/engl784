@@ -30,13 +30,11 @@
 ### work due:
 * Read "Benjy" and "Quentin" sections of TSAF
 * Faulkner, "Introduction to TSAF"
-* Carolyn Porter, from *William Faulkner* (39-54)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ## 3/7 TSAF II
 ### readings/in class:
 * Read "Jason" and "Dilsey" sections (finish the novel)
-* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”   
 * Matthews, ["That Evening Sun Go Down"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=87)                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ### work due:
@@ -46,8 +44,7 @@
 ## 3/14    LIA I
 ### readings/in class:
 * LIA, chs 1-7
-* Carolyn Porter, from William Faulkner ch 2 (87-103, rest optional)
-
+* Matthews, ["From Rednecks to Riches"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=134) (the chapter is long but nutritious. If you're pressed for time, start with [the LIA section](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=169) on p. 159.
 ### work due:
 * blog post #4
   
@@ -71,7 +68,7 @@
 ## 4/4 AA 1
 ### readings/in class:   
 * AA, chs 1-3
-* Porter, Ch 3 (only 104-133)
+* Matthews, ["The Planting of Men"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=182) (read though p. 197)
 
 ### work due:
 * 
@@ -80,17 +77,16 @@
 ## 4/18 AA 2
 ### readings/in class:
 * AA chs 4-6
-* Matthews, “Recalling the West Indies: From Yoknapatawpha to Haiti and Back” [G]
+* Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
 
 ### work due:
 
                                                                                                               
 ## 4/25  AA 3
 ### readings/in class: 
-* Godden, from Fictions of Labor [G]
-optional: 
-* Kutzinski, Vera M. “Borders and Bodies: The United States, America, and the Caribbean.” 
-* Forter, Greg. “Freud, Faulkner, Caruth: Trauma and the Politics of Literary Form.”
+* AA finish
+* Godden, from Fictions of Labor (C)
+
 
 ### work due:
 
@@ -110,7 +106,12 @@ optional:
 ### work due:
 
 ## 5/16 GDM 3   
+### readings/in class: 
 * “Delta Autumn,” “Go Down, Moses”    
+* quick roundtable on final projects
+
+### work due:
+* final essay due
 
 See [syllabus](https://engl784spr23.commons.gc.cuny.edu/syllabus/) for books on order, assignment structure, grading, policies, etc.                                                                                                                                                
 
