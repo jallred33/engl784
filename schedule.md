@@ -37,7 +37,7 @@
 ### readings/in class:
 * Read "Jason" and "Dilsey" sections (finish the novel)
 * Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”   
-* Matthews, ["That Evening Sun Go Down"[(https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=87)                                                                                                                                                                                                                                                                                                                                                                                                  
+* Matthews, ["That Evening Sun Go Down"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=87)                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ### work due:
 * **Blog post #3:** 
