@@ -9,6 +9,8 @@ Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
 Course Blog: [https://engl784spr23.commons.gc.cuny.edu/](https://engl784spr23.commons.gc.cuny.edu/)
 
+Course Group: [http://cuny.is/group-engl-784-Spr23](http://cuny.is/group-engl-784-Spr23)
+
 Yoknapedia: http://jallred.net/wordpress/yoknapedia/
 
 Course Code: 40239
