@@ -9,6 +9,7 @@
 ## 2/7 *The Unvanquished*
 ### readings/in class   
 * U, “Ambuscade,” “Retreat,” “Raid,” “Riposte in Tertio”
+* Matthews, from *Seeing Through the South* (C)
 
 ### work due
 * **Blog Post #1:**                                                                                                                                                                                                                                                                                           
@@ -16,6 +17,9 @@
 ## 2/14 *The Unvanquished* 
 ### readings/in class:
 * U, “Vendée,” “Skirmish at Sartoris,” “An Odor of Verbena”
+* Atkinson, from *Faulkner and the Great Depression* (C)
+* optional: Allred, "White Noise/Black Codes: Inscription and Representation in *The Unvanquished*"
+
 ### work due:
 *  **blog post #2:** 
 
@@ -32,7 +36,8 @@
 ## 3/7 TSAF II
 ### readings/in class:
 * Read "Jason" and "Dilsey" sections (finish the novel)
-* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”                                                                                                                                                                                                                                                                                                                                                                                                     
+* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”   
+* Matthews, ["That Evening Sun Go Down"[(https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=87)                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ### work due:
 * **Blog post #3:** 
@@ -48,7 +53,8 @@
   
 ## 3/21 LIA II
 ### readings/in class:   
-* LIA, chs 8-20                                                 
+* LIA, chs 8-20   
+* Watson, from *Reading From the Body* (C)                                              
 
 ### work due: 
 * **Blog post #4:** 
@@ -56,7 +62,7 @@
 ## 3/28 LIA III
 ### readings/in class:   
 * LIA, finish
-* Doyle, “The Body Against Itself…” [G]
+* Doyle, “The Body Against Itself…” (C)
 * optional: Hasratian, “The Death of Difference in LIA”
 ### work due:
 
@@ -76,9 +82,7 @@
 * AA chs 4-6
 * Matthews, “Recalling the West Indies: From Yoknapatawpha to Haiti and Back” [G]
 
-
 ### work due:
-* explore Zotero (zotero.org) via [this efficient overview](https://www.youtube.com/watch?v=Iq7V2X5x2Pk) and [this quick introduction of collaboration with group libraries](https://www.zotero.org/groups/)
 
                                                                                                               
 ## 4/25  AA 3
@@ -94,16 +98,15 @@ optional:
 ## 5/2    GDM 1
 ### readings/in class: 
 * “Was,” “Pantaloon in Black,” “The Fire and the Hearth”
-**note: deadline to turn in optional draft Monday, 5/8!
+* Davis, from *Games of Property* (C)
 
 ### work due:     
-* **Ivanhoe move #2 due**
-* **optional** submission of draft or intro or piece of final project due
                                                                                                                                             
 ## 5/9  GDM 2
 ### readings/in class: 
 * “The Old People,” “The Bear”
-* 
+* Saldivar and Goldberg, "The Faulknerian Anthropocene: Scales of Time and History in
+*The Wild Palms* and *Go Down, Moses*" [C] 
 ### work due:
 
 ## 5/16 GDM 3   
