@@ -94,7 +94,7 @@
 ## 5/2    GDM 1
 ### readings/in class: 
 * “Was,” “Pantaloon in Black,” “The Fire and the Hearth”
-* Davis, from *Games of Property* (C)
+* Davis, ch. 1 from *Games of Property* (C)
 
 ### work due:     
                                                                                                                                             
