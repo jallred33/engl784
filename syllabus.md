@@ -27,7 +27,7 @@ By the end of the semester, students who have successfully completed the course 
 ## **Course Description:**
 This course will examine one of the most seminal novelists of the twentieth century whose influence resonates globally, from US writers like Toni Morrison and Cormac McCarthy to postcolonial writers like Gabriel Garcia Marquez. We will think about Faulkner's place in the long development of the novel genre, but also (and especially) the way his work illuminates crucial social, economic, and political developments of the early 20th century: the long aftermath of slavery in Southern life, the gradual and uneven progress of modernization in US society, and changes in perceptions of space and time in the period. And of course we will engage the famous difficulty of Faulkner's work, discovering (or so I wager) the pleasure of the strenuous mode of reading it demands and especially of reading and discussing it with peers.
 
-**Requirements**: faithful attendance and vigorous participation, several short informal writing assignments, and a final research paper of about 15 pp. 
+**Requirements**: faithful attendance and vigorous participation, several short informal writing assignments, and a final research paper of about 15 pp., or equivalent alternative project, in consultation with the instructor. 
 
 
 
