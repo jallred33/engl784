@@ -1,4 +1,6 @@
-Faulkner running list of research ideas:
+# Research Ideas:
+
+*These are suggestions as you think about your research paper in this course. It's not a restrictive menu, but more of a set of ingredients or recipes that you can borrow wholesale or use as a basis for your own improvisation*:
 
 1.	Oprah Winfrey and Faulkner: see the special issue of Mississippi Quarterly on Oprah’s Book Club and its promotion of Faulkner’s works.
 2.	Faulkner and periodicals:
