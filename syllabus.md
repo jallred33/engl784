@@ -37,9 +37,10 @@ This course will examine one of the most seminal novelists of the twentieth cent
 
 | **responsibility**                                     | **% of grade** |
 | ------------------------------------------------------ | -------------- |
-| Five blog posts of 400-800 words                       | 30            |
-| Final research project                                 | 50             |
-| Participation (including in-class writing assignments) | 20             |
+| Five blog posts of 400-800 words                       | 25            |
+| Midterm project                                         |20       |
+| Final research project                                 | 40             |
+| Participation (including in-class writing assignments) | 15             |
 
 
 ## Writing and Research Help
@@ -48,7 +49,7 @@ In addition to course assignments and instruction, the [Reading/Writing Center](
 
 For research help, Hunter College Libraries provide online databases and other remote resources. Hunter librarians can help you leverage these resources for your projects. Here are some ways:
 
-- [Five ways to contact the librar](https://library.hunter.cuny.edu/ask-a-librarian)y
+- [Five ways to contact the library](https://library.hunter.cuny.edu/ask-a-librarian)
 - Contact English subject librarian Jennifer Newman at jn1314@hunter.cuny.edu. We’ll work with her later in the term.
 - Instructions to access the Hunter Library from off-campus are here: https://library.hunter.cuny.edu/remote-access.
 
