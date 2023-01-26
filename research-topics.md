@@ -4,21 +4,21 @@
 
 1.	Oprah Winfrey and Faulkner: see the special issue of Mississippi Quarterly on Oprah’s Book Club and its promotion of Faulkner’s works.
 2.	Faulkner and periodicals:
-a.	“Signet pulps”: linking of Faulkner with “low” literary forms via Sanctuary and Wild Palms and Pylon.
-b.	The Unvanquished and/or Go Down, Moses as a window into Faulkner’s work for “big magazines,” looking perhaps at recent work like Harris’s book on modernism and “big magazines” or Hutner’s work on middlebrow fiction.
+	3.	“Signet pulps”: linking of Faulkner with “low” literary forms via _Sanctuary_ and _Wild Palms_ and _Pylon_.
+	4.	_The Unvanquished_ and/or _Go Down, Moses _as a window into Faulkner’s work for “big magazines,” looking perhaps at recent work like Harris’s book on modernism and “big magazines” or Hutner’s work on middlebrow fiction.
 3.	Faulkner in Latin America (see Paul Fess’s work)
-4.	Faulkner’s reception: in France (esp. Sartre), in Latin America, in Mississippi, in Japan. Glissant, Fuentes, Sartre, Marquez, Borges (Parini quotes from many reviews of WF by Borges)
+4.	Faulkner’s reception: in France (esp. Sartre), in Latin America, in Mississippi, in Japan. Glissant, Fuentes, Sartre, Marquez, Borges (Jay Parini quotes from many reviews of WF by Borges)
 5.	Faulkner and Hollywood.
 6.	Faulkner and Civil Rights
 7.	Faulkner and Southern history (see Williamson and Gorra)
-8.	Native American presence in Faulkner (Ashley P)
+8.	Native American presence in Faulkner
 9.	Faulkner’s midwives: Malcolm Cowley, Phil Stone, etc. See Cowley’s long essay on WF in SATURDAY REVIEW in 1930s
 10.	Faulkner and beginnings of American modernism: see Hugh Kenner's essay from the 1970s.
 11.	Faulkner and periodicals: SatEvePost, DOUBLE DEALER, etc.
 12.	Ecocritical Faulkner: especially work on AILD/TSAF and Great Flood of 1927
 13.	Review-essay of one of the Yoknapatawpha conference volumes.
-14.	Faulkner and the Nobel prize?
-15.	Queer Faulkner
+14.	Faulkner and the Nobel prize. Might look at Jim English's work on literary prizes and the politics of prestige.
+15.	Queer Faulkner (the annual Faulkner conference in Oxford, MS is on this theme this summer!)
 16.	Faulkner and plantation tradition: how Faulkner revises and draws from 19thC popular depictions of plantation life by such authors as Joel Chandler Harris and Thomas Nelson Page.
 17.	Faulkner, New Orleans, and the DOUBLE DEALER: the urban sketch tradition and its relation to his later impressionism.
 18.	Faulkner and noir: SANCTUARY, THE BIG SLEEP, etc.
