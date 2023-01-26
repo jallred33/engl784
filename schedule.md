@@ -46,15 +46,13 @@
 * LIA, chs 1-7
 * Matthews, ["From Rednecks to Riches"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=134) (the chapter is long but nutritious. If you're pressed for time, start with [the LIA section](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=169) on p. 159.
 ### work due:
-* blog post #4
+**blog post #4**
   
 ## 3/21 LIA II
 ### readings/in class:   
 * LIA, chs 8-20   
 * Watson, from *Reading From the Body* (C)                                              
 
-### work due: 
-* **Blog post #4:** 
                                                                                                  
 ## 3/28 LIA III
 ### readings/in class:   
@@ -62,6 +60,7 @@
 * Doyle, “The Body Against Itself…” (C)
 * optional: Hasratian, “The Death of Difference in LIA”
 ### work due:
+* **midterm project** [see description](
 
 
 # Unit 3 *Absalom, Absalom*   
@@ -71,7 +70,6 @@
 * Matthews, ["The Planting of Men"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=182) (read though p. 197)
 
 ### work due:
-* 
                                                                                                                                           
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 ## 4/18 AA 2
@@ -80,7 +78,7 @@
 * Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
 
 ### work due:
-
+* final project proposal (on blog)
                                                                                                               
 ## 4/25  AA 3
 ### readings/in class: 
@@ -97,7 +95,8 @@
 * Davis, ch. 1 from *Games of Property* (C)
 
 ### work due:     
-                                                                                                                                            
+* final project bibliography (on blog)
+                                                                                                                                           
 ## 5/9  GDM 2
 ### readings/in class: 
 * “The Old People,” “The Bear”
