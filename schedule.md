@@ -60,7 +60,7 @@
 * Doyle, “The Body Against Itself…” (C)
 * optional: Hasratian, “The Death of Difference in LIA”
 ### work due:
-* **midterm project** [see description](
+* **midterm project** [see description](https://raw.githubusercontent.com/jallred33/engl784/main/Midterm%20Project%20Description.md)
 
 
 # Unit 3 *Absalom, Absalom*   
@@ -69,7 +69,6 @@
 * AA, chs 1-3
 * Matthews, ["The Planting of Men"](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=428098&ppg=182) (read though p. 197)
 
-### work due:
                                                                                                                                           
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 ## 4/18 AA 2
@@ -78,7 +77,7 @@
 * Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
 
 ### work due:
-* final project proposal (on blog)
+* **final project proposal (on blog)**
                                                                                                               
 ## 4/25  AA 3
 ### readings/in class: 
@@ -87,6 +86,7 @@
 
 
 ### work due:
+* **Blog post #5**
 
 # *Go Down, Moses* (1941)
 ## 5/2    GDM 1
@@ -95,7 +95,7 @@
 * Davis, ch. 1 from *Games of Property* (C)
 
 ### work due:     
-* final project bibliography (on blog)
+* **final project bibliography** (on blog)
                                                                                                                                            
 ## 5/9  GDM 2
 ### readings/in class: 
@@ -110,7 +110,7 @@
 * quick roundtable on final projects
 
 ### work due:
-* final essay due
+* **final essay** (submit via email or form)
 
 See [syllabus](https://engl784spr23.commons.gc.cuny.edu/syllabus/) for books on order, assignment structure, grading, policies, etc.                                                                                                                                                
 
