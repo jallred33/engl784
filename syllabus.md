@@ -3,7 +3,7 @@ Instructor: Jeff Allred
 
 Class Meetings:Tu 5:30-7:30 in HW 1222
 
-Office Hours: Tu/Fri 2:30-3:30 and by appointment in HW 1205. 
+Office Hours: Tu/Fri 10-11a and by appointment in HW 1205. 
 
 Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
