@@ -37,7 +37,7 @@ This course will examine one of the most seminal novelists of the twentieth cent
 
 | **responsibility**                                     | **% of grade** |
 | ------------------------------------------------------ | -------------- |
-| Five blog posts of 400-800 words                       | 25            |
+| Four blog posts of 400-800 words (note: you may skip one deadline!)                       | 25            |
 | Midterm project                                         |20       |
 | Final research project                                 | 40             |
 | Participation (including in-class writing assignments) | 15             |
