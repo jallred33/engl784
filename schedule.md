@@ -28,9 +28,9 @@
 ## 2/28 TSAF I
 
 ### work due:
-* Read "Benjy" and "Quentin" sections of TSAF
-* Faulkner, "Introduction to TSAF"
-* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+* Read "Benjy" and "Quentin" sections of TSAF 
+* Faulkner, "Introduction to TSAF" and "Appendix" (C)
+* Sartre, “On The Sound and the Fury: Time in the Work of Faulkner” (C)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ## 3/7 TSAF II
 ### readings/in class:
@@ -58,7 +58,7 @@
 ### readings/in class:   
 * LIA, finish
 * Doyle, “The Body Against Itself…” (C)
-* optional: Hasratian, “The Death of Difference in LIA”
+* optional: Hasratian, “The Death of Difference in LIA” (C)
 ### work due:
 * **midterm project** [see description](https://raw.githubusercontent.com/jallred33/engl784/main/Midterm%20Project%20Description.md)
 
