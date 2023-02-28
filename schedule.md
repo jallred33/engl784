@@ -60,7 +60,7 @@
 * Doyle, “The Body Against Itself…” (C)
 * optional: Hasratian, “The Death of Difference in LIA” (C)
 ### work due:
-* **midterm project** [see description](https://raw.githubusercontent.com/jallred33/engl784/main/Midterm%20Project%20Description.md)
+* **midterm project** [see description](https://engl784spr23.commons.gc.cuny.edu/midterm-project/)
 
 
 # Unit 3 *Absalom, Absalom*   
