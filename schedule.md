@@ -50,7 +50,7 @@
   
 ## 3/21 LIA II
 ### readings/in class:   
-* LIA, chs 8-20   
+* LIA, chs 8-15   
 * Watson, from *Reading From the Body* (C)                                              
 
                                                                                                  
