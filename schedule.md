@@ -74,7 +74,8 @@
 ## 4/18 AA 2
 ### readings/in class:
 * AA chs 4-6
-* Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
+* Godden, from Fictions of Labor (C)
+
 
 ### work due:
 * **final project proposal (on blog)**
@@ -82,7 +83,8 @@
 ## 4/25  AA 3
 ### readings/in class: 
 * AA finish
-* Godden, from Fictions of Labor (C)
+* Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
+
 
 
 ### work due:
