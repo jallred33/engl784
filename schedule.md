@@ -83,7 +83,7 @@
 ## 4/25  AA 3
 ### readings/in class: 
 * AA finish
-* Follansbee, ["Sweet Fascism in the Piney Woods"](https://muse-jhu-edu.proxy.wexler.hunter.cuny.edu/article/423463)
+* Murphet, [Faulkner in the Histories of Film: “Where Memory Is the Slave”](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=1820991&ppg=177)
 
 
 
@@ -108,7 +108,8 @@
 
 ## 5/16 GDM 3   
 ### readings/in class: 
-* “Delta Autumn,” “Go Down, Moses”    
+* “Delta Autumn,” “Go Down, Moses”
+* optional: Ladd, ["Race as Fact and Fiction in William Faulkner"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9780470996881.ch9)
 * quick roundtable on final projects
 
 ### work due:
